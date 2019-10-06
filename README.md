@@ -24,3 +24,28 @@ No internet access enabled
 No external data can be added as a data source  
 No use of other kernels (or utility scripts) as inputs into your submission kernel  
 No custom packages enabled in kernels  
+
+# References:
+1. https://github.com/tatsy/keras-generative/blob/master/models/cvaegan.py
+2. https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
+3. https://github.com/keras-team/keras/blob/master/examples/variational_autoencoder_deconv.py
+4. https://blog.keras.io/building-autoencoders-in-keras.html
+5. https://towardsdatascience.com/what-the-heck-are-vae-gans-17b86023588a
+6. https://github.com/eriklindernoren/Keras-GAN
+7. https://github.com/eriklindernoren/Keras-GAN/blob/master/wgan/wgan.py
+8. https://mc.ai/how-to-implement-gan-hacks-to-train-stable-generative-adversarial-networks/
+9. https://github.com/crmaximo/VAEGAN/blob/master/VAEGAN.py
+10. https://github.com/soumith/ganhacks
+11. https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/
+12. https://machinelearningmastery.com/how-to-code-generative-adversarial-network-hacks/
+13. https://github.com/taki0112/StableGAN-Tensorflow
+14. https://www.cs.umd.edu/~tomg/projects/stable_gans/
+
+
+
+
+
+
+
+
+
